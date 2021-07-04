@@ -6,13 +6,16 @@ The purpose of this project was to build a dynamic and interactive website showc
 
 ## Results
 The average user should find the website relatively easy to us since, based on the user's input, each of the 'Filter Search' fields on the left side of the page will narrow the data in the respective column on the right side of the page. For example, entering "ca" into the 'State' field will show us all results for the state of California:
+
 ![CA_search](https://user-images.githubusercontent.com/82347825/124396457-ab99e100-dcd7-11eb-83c8-0a760ba3719f.png)
 
 
 Once filtered to show UFO sightings in California, one can then choose to narrow it down further by entering another field, such as city, date, or shape. In this example, we chose to look at all "light" shaped UFOs: 
+
 ![CA_Light_search](https://user-images.githubusercontent.com/82347825/124396459-b18fc200-dcd7-11eb-8c46-f2e1c6b3a7e3.png)
 
 Entering one last filter of 'el cajon' for the "City" field shows us the two instances where a light shaped UFO appeared in El Cajon, California (per our 3 search filters):
+
 ![CA_Light_El Cajon_search](https://user-images.githubusercontent.com/82347825/124396463-b5bbdf80-dcd7-11eb-91c3-f1137b4aac5f.png)
 
 
